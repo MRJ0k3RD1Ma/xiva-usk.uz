@@ -101,14 +101,14 @@
                                   <td style="border: 0px;width: 50%;">
                                     <a href="/" rel="home">
                                       <h1 class="site-title">
-                                        "Xonqa dexqon bozori" MChJ
+                                        "Yangibozor sharob savdo" MChJ
                                       </h1>
                                       <p class="site-description">Rasmiy veb-sayti</p>
                                     </a>
                                   </td>
                                   <td style="background: url(/uploads/phone.png) no-repeat 100px center;border: 0px;width: 40%;text-align: right;background-size: 130px;">
                                     <h3 style="font-weight: 400;">
-                                      <span style="background: #fff;">Ishonch raqami</span><br /> <span style="background: #fff;">+998 (90) <b><u>602-21-55</u></b></span>
+                                      <span style="background: #fff;">Ishonch raqami</span><br /> <span style="background: #fff;">+998 (62) <b><u>222-22-22</u></b></span>
                                     </h3>
                                   </td>
                               </tr>
@@ -313,8 +313,9 @@
                         </aside>
                         <aside id="start-magazine-social-3" class="widget start_magazine_widget_social">
                             <h3 class="widget-title">Sayt yaratuvchi</h3>
-                            <a href="http://xorazmakt.uz/" target="_blank">
-                              <img title="Sayt Xorazm viloyati hokimligi huzuridagi AKTni rivojlantirtish markazi tomonidan yartilidi." src="/uploads/akt-logo.png" style="max-width: 100%;width: 50%;" />
+                            <br />
+                            <a href="http://raqamli.uz/" target="_blank">
+                              Sayt "Raqamli iqtisodiyotni rivojlantirtish" MCHJ tomonidan yartilidi.
                             </a>
                         </aside>
                     </div>
@@ -341,7 +342,7 @@
             <div class="container">
                 <div class="copyright">
                     Barcha huquqlar amaldagi qonunchilik asosida ximoyalangan.<br />
-                    Saytdan ma'lumot ko'chirilganda yoki qisman foydalanilganda <a target="_blank" rel="nofollow" href="http://xonqa-bozor.uz"><u>Xonqa-bozor.uz</u></a> veb-sayti manba sifatida ko'rsatilishi shart.
+                    Saytdan ma'lumot ko'chirilganda yoki qisman foydalanilganda <a target="_blank" rel="nofollow" href="http://yangibozorsharobsavdo.uz/"><u>angibozorsharobsavdo.uz</u></a> veb-sayti manba sifatida ko'rsatilishi shart.
                 </div>
                 <div class="site-info"><!-- START WWW.UZ TOP-RATING --><SCRIPT language="javascript" type="text/javascript">
                   <!--

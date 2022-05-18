@@ -4,15 +4,15 @@
 
 $config = array (
 
-'home_title' => '“Xorazm yo’llardan foydalanish” Unitar Korxonasi rasmiy veb-sayti',
+'home_title' => '&quot;Yangibozor sharob savdo&quot; MCHJ',
 
-'http_home_url' => 'http://xorazm-avtoyul.uz/',
+'http_home_url' => 'http://yangibozorsharobsavdo.uz/',
 
-'description' => '“Xorazm yo’llardan foydalanish” Unitar Korxonasi rasmiy veb-sayti',
+'description' => '&quot;Yangibozor sharob savdo&quot; MCHJ',
 
-'keywords' => '“Xorazm yo’llardan foydalanish” Unitar Korxonasi rasmiy veb-sayti',
+'keywords' => '&quot;Yangibozor sharob savdo&quot; MCHJ',
 
-'short_title' => '“Xorazm yo’llardan foydalanish” Unitar Korxonasi rasmiy veb-sayti',
+'short_title' => '&quot;Yangibozor sharob savdo&quot; MCHJ',
 
 'start_site' => '1',
 
@@ -24,7 +24,7 @@ $config = array (
 
 'langs' => 'Russian',
 
-'skin' => 'Default',
+'skin' => 'bozor',
 
 'jquery_version' => '0',
 
