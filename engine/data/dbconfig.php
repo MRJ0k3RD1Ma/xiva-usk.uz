@@ -2,11 +2,11 @@
 
 define ("DBHOST", "localhost");
 
-define ("DBNAME", "raqamli_uz_sharob");
+define ("DBNAME", "md_xivausk");
 
-define ("DBUSER", "raqam_sharob");
+define ("DBUSER", "root");
 
-define ("DBPASS", "8Pi8d^n5");
+define ("DBPASS", "");
 
 define ("PREFIX", "dle");
 
