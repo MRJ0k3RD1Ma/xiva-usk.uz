@@ -101,14 +101,14 @@
                                   <td style="border: 0px;width: 50%;">
                                     <a href="/" rel="home">
                                       <h1 class="site-title">
-                                        "Yangibozor sharob savdo" MChJ
+                                        "Xiva universal savdo kompleksi" MChJ
                                       </h1>
                                       <p class="site-description">Rasmiy veb-sayti</p>
                                     </a>
                                   </td>
                                   <td style="background: url(/uploads/phone.png) no-repeat 100px center;border: 0px;width: 40%;text-align: right;background-size: 130px;">
                                     <h3 style="font-weight: 400;">
-                                      <span style="background: #fff;">Ishonch raqami</span><br /> <span style="background: #fff;">+998 (62) <b><u>222-22-22</u></b></span>
+                                      <span style="background: #fff;">Ishonch raqami</span><br /> <span style="background: #fff;">+998 (62) <b><u>123-45-67</u></b></span>
                                     </h3>
                                   </td>
                               </tr>
@@ -187,13 +187,32 @@
               </aside>
           </div>
         </div>
-
+        [/aviable]
         <div id="content" class="site-content">
           <div class="container">
               <div class="inner-wrapper">
                   <div id="primary" class="content-area">
                       <main id="main" class="site-main" role="main">
                           <div id="sidebar-front-page-widget-area" class="widget-area">
+                              [not-aviable=main]
+
+                              <aside id="start-magazine-news-block-4" class="widget start_magazine_widget_news_block">
+                                  <div class="news-block-widget news-block-layout-2 news-block-column-2">
+                                      <div class="inner-wrapper">
+                                          {content}
+                                          <!-- .news-block-item -->
+                                          <a href="http://my.gov.uz" target="_blank" title="">
+                                              <img src="/uploads/epigu_uz.jpg" style="width:100%;" alt="" title="">
+                                          </a>
+                                      </div>
+                                      <!-- .inner-wrapper -->
+                                  </div>
+
+                              </aside>
+
+                              [/not-aviable]
+
+                              [aviable=main]
                               <aside id="start-magazine-news-block-4" class="widget start_magazine_widget_news_block">
                                   <div class="widget-title-wrap"><h2 class="widget-title">Sohaga oid xabarlar</h2></div>
                                   <div class="news-block-widget news-block-layout-2 news-block-column-2">
@@ -219,7 +238,7 @@
                                   </div>
                                   <!-- .news-block-widget -->
                               </aside>
-
+                              [/aviable]
                           </div>
                           <!-- #sidebar-front-page-widget-area -->
                       </main>
@@ -296,11 +315,8 @@
           </div>
           <!-- .container -->
         </div>
-        [/aviable]
-        [not-aviable=main]
-          {content}
-          {info}
-        [/not-aviable]
+
+
         <div id="footer-widgets" class="widget-area" role="complementary">
             <div class="container">
                 <div class="inner-wrapper">
@@ -315,7 +331,7 @@
                             <h3 class="widget-title">Sayt yaratuvchi</h3>
                             <br />
                             <a href="http://raqamli.uz/" target="_blank">
-                              Sayt "Raqamli iqtisodiyotni rivojlantirtish" MCHJ tomonidan yartilidi.
+                              Sayt "Million Dastur" OK tomonidan yartilidi.
                             </a>
                         </aside>
                     </div>
@@ -342,7 +358,7 @@
             <div class="container">
                 <div class="copyright">
                     Barcha huquqlar amaldagi qonunchilik asosida ximoyalangan.<br />
-                    Saytdan ma'lumot ko'chirilganda yoki qisman foydalanilganda <a target="_blank" rel="nofollow" href="http://yangibozorsharobsavdo.uz/"><u>angibozorsharobsavdo.uz</u></a> veb-sayti manba sifatida ko'rsatilishi shart.
+                    Saytdan ma'lumot ko'chirilganda yoki qisman foydalanilganda <a target="_blank" rel="nofollow" href="http://xiva-usk.uz/"><u>xiva-usk.uz</u></a> veb-sayti manba sifatida ko'rsatilishi shart.
                 </div>
                 <div class="site-info"><!-- START WWW.UZ TOP-RATING --><SCRIPT language="javascript" type="text/javascript">
                   <!--
